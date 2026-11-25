@@ -1,0 +1,9 @@
+/.venv
+/EE608_01_Ideal_Quantum_Channel.ipynb
+/EE608_02_Loss_Only_Quantum_Channel.ipynb
+/EE608_03_Depolarizing_Noise.ipynb
+/EE608_04_Noisy_Lossy_Quantum_Channel.ipynb
+/EE608_05_Quantum_Receiver.ipynb
+/EE608_06_BB84_First_Run.ipynb
+/EE608_07_Six_State_QKD.ipynb
+/EE608_08_E91_QKD.ipynb
